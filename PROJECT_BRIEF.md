@@ -4,16 +4,16 @@ Fill in the [brackets]. Rough answers are fine. You can change them any time.
 
 **Project:** Stackup is a revenue operating system for my social media management advertising agency. It helps me, a one-person team, run the agency without hiring.
 
-**My business today:** Brand-new startup. No clients yet. I work on Facebook, Instagram, and TikTok.
+**My business today:** Brand-new startup. No clients yet. Based in Biloxi, MS 39531. I work on Facebook, Instagram, TikTok, YouTube Shorts, and X.
 
 **Biggest time-eaters:**
 1. Finding new clients
 2. Making content
 3. Client messages
 
-**Who I want as clients:** Restaurants, gyms, and service businesses in [city/area, or "anywhere online"]
+**Who I want as clients:** Restaurants, gyms, and service businesses in and around Biloxi, MS 39531 (Mississippi Gulf Coast)
 
-**What I sell (weekly):** 2 unique posts, plus stories and reels, across 5 platforms ([list all 5]), and DM responses within 24 hours.
+**What I sell (weekly):** 2 unique posts, 2 stories, and 2 reels per week, across 5 platforms (Facebook, Instagram, TikTok, YouTube Shorts, X), plus DM responses within 24 hours.
 **Pricing:** Not set yet. I will build that later.
 
 **Version 1:** A Client Finder helper that:
