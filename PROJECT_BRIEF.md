@@ -11,9 +11,10 @@ Fill in the [brackets]. Rough answers are fine. You can change them any time.
 2. Making content
 3. Client messages
 
-**Who I want as clients:** [type of business, e.g. restaurants, gyms, salons] in [city/area, or "anywhere online"]
+**Who I want as clients:** Restaurants, gyms, and service businesses in [city/area, or "anywhere online"]
 
-**What I sell:** [package name] for $[price]/month, which includes [what they get]
+**What I sell (weekly):** 2 unique posts, plus stories and reels, across 5 platforms ([list all 5]), and DM responses within 24 hours.
+**Pricing:** Not set yet. I will build that later.
 
 **Version 1:** A Client Finder helper that:
 - Helps me build a list of businesses that need social media help
@@ -23,7 +24,7 @@ Fill in the [brackets]. Rough answers are fine. You can change them any time.
 
 **Not in version 1:** Client reporting, invoicing, content for paying clients (these come once I have clients)
 
-**Budget:** $[amount]/month for tools
+**Budget:** $0/month for tools. Use free options only.
 
 **Done means:** I land my first paying client, and finding + messaging leads takes me [#] hours a week instead of [#].
 
