@@ -2,9 +2,9 @@
 
 Fill in the [brackets]. Rough answers are fine. You can change them any time.
 
-**Project:** Stackup is a [type of thing: website / app / tool] that helps [who] do [what main job].
+**Project:** Stackup is a revenue operating system for my social media management advertising agency. It is a [type of thing: website / app / tool] that helps me, a one-person team, do [what main job].
 
-**Why:** Right now, [the problem or annoyance it fixes].
+**Why:** Right now I am a 1-person team. Stackup should simplify my workload so I can run the agency without hiring. [Biggest time-eater: the task that takes the most hours each week]
 
 **Version 1 must:**
 - [feature 1]
