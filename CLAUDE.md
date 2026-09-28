@@ -29,3 +29,9 @@ Small, clear tasks (like fixing a typo) can skip this.
 
 `PROJECT_BRIEF.md` describes what Stackup is and how to build it. Read it before building.
 If it still has blank `[brackets]`, help the owner fill them in before starting.
+
+`business-brief.md` describes the offer, voice, and video plan. Read it too.
+
+## Agent Team
+
+The agents live in `.claude/agents/`. `runbooks/revenue-agent-runbook.md` explains the order to run them and the business rules they must follow. Finished work goes in `outputs/`.
